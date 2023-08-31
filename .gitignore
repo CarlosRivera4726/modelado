@@ -34,3 +34,5 @@ structure_modeling_client/.vercel
 structure_modeling_client/*.tsbuildinfo
 structure_modeling_client/next-env.d.ts
 
+#python .venv -- install all dependencies (flask, flask-cors, numpy, opencv-python)
+Structure_Modeling_Server/.venv/*
